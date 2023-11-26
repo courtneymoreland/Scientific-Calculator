@@ -2,10 +2,10 @@
 
 As a software engineer, I undertook the development of a Scientific Calculator app to enhance my skills in Android app development. The app is designed to handle various mathematical operations, including standard arithmetic and advanced functions such as square root, factorial, trigonometric functions, and logarithmic functions. This project was an opportunity to apply my knowledge in Java and XML within the Android Studio environment.
 
-## Demonstration 👇
+## Demonstration
 
 <p align="left">
-  <img width="256" src="https://github.com/courtneymoreland/Scientific-Calculator-Main/Sci-Calc.gif">
+  <img width="256" src="https://github.com/courtneymoreland/Scientific-Calculator/Sci-Calc.gif">
 </p>
 
 ## Software Demo Video
