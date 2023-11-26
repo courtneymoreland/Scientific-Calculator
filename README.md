@@ -5,7 +5,7 @@ As a software engineer, I undertook the development of a Scientific Calculator a
 ## Demonstration
 
 <p align="left">
-  <img width="256" src="https://github.com/courtneymoreland/Scientific-Calculator/Sci-Calc.gif">
+  <img width="256" src="https://github.com/courtneymoreland/Scientific-Calculator/blob/main/Sci-Calc.gif">
 </p>
 
 ## Software Demo Video
